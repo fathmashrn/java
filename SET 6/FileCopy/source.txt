@@ -1,0 +1,2 @@
+This is the source file.
+This file is copied using BufferedInputStream and BufferedOutputStream.
