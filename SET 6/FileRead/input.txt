@@ -1,0 +1,2 @@
+Hello Java
+This is a FileInputStream program.
